@@ -16,11 +16,11 @@ Firefox v19.0
 
 使い方
 ------
-1. [pukiwiki-skin_twilightのzipファイル](https://github.com/fuyuka88/pukiwiki-skin_twilight/archive/master.zip)をダウンロードする
+1. [pukiwiki-skin_twilightのzipファイル](https://github.com/fuyukoma/pukiwiki-skin_twilight/archive/master.zip)をダウンロードする
 2. zipファイルを解凍し、pukiwiki.css.phpとpukiwiki.skin.phpをskinフォルダ直下に配置する
 
 ### Default skinを書き換えたくない場合 ###
-1. [pukiwiki-skin_twilightのzipファイル](https://github.com/fuyuka88/pukiwiki-skin_twilight/archive/master.zip)をダウンロードする  
+1. [pukiwiki-skin_twilightのzipファイル](https://github.com/fuyukoma/pukiwiki-skin_twilight/archive/master.zip)をダウンロードする  
 2. 解凍後のフォルダをskinフォルダ直下に配置する  
 3. pukiwikiフォルダ直下にあるpukiwiki.ini.phpを以下のように変更する  
 
